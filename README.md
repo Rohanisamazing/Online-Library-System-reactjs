@@ -35,6 +35,9 @@ The **Online Library System** is a React-based web application that allows users
 -  npm install
 -  npm install -D tailwindcss postcss autoprefixer  **to load the tailwind Css** 
 -  npx tailwindcss init -p
+-  If using Redux, make sure @reduxjs/toolkit and react-redux are installed:
+	1. npm install @reduxjs/toolkit react-redux
+	2. npm install react-router-dom
 -  npm run dev
 
 
